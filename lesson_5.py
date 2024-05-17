@@ -33,3 +33,14 @@ git push -u origin main
 
 """
 
+
+"""
+Команды для пуша на существующий репозиторий с коммитом
+
+git add .
+
+git commit -m "Обновили файлы = Lesson_5.py, test.py"
+
+git push
+
+"""

@@ -7,3 +7,5 @@ class Car:
 
 mers = Car("mersedes - benz", "White")
 print(mers)
+
+print("Hello World!")
