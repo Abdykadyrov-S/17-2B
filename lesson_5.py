@@ -54,6 +54,10 @@ git status
 
 git branch
 
+git clone 
+
+git pull 
+
 """
 
 
@@ -68,6 +72,7 @@ git checkout -b <название ветки>
 
 git checkout <название ветки>
 # git checkout syimyk
+
 
 
 """
