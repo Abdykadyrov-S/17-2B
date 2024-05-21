@@ -44,3 +44,30 @@ git commit -m "Обновили файлы = Lesson_5.py, test.py"
 git push
 
 """
+
+
+"""
+Команды-помошники
+
+
+git status
+
+git branch
+
+"""
+
+
+"""
+Команды для работы с ветками
+
+
+git branch
+
+git checkout -b <название ветки>
+# git checkout -b syimyk
+
+git checkout <название ветки>
+# git checkout syimyk
+
+
+"""
