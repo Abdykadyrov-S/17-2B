@@ -57,6 +57,7 @@ git branch
 git clone 
 
 git pull 
+# git pull origin main 
 
 """
 
